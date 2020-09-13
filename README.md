@@ -1,2 +1,2 @@
 # Java-Course-Project
-This is a university group project
+This is an academic group project called 'Hotel Management System'. This is a java applet which can keep records of room details, booking, client details in mySQL database and CRUD operations are implemented throughly. Unfortunately, the payment system wasn't completed due to shortage of deadline. However, it was my first OOP-based project  and i learned so many things about OOP through this course :)   
